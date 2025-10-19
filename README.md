@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Tino Mukaro  
-A Recent Computer Science Student & Aspiring DevOps Engineer from Zimbabwe  
+A Recent Computer Science Student & Aspiring Cloud Engineer from Zimbabwe  
 
 I'm a creative and dedicated developer with a love for building intuitive, functional, and impactful web applications.  
 I enjoy working with modern web technologies, turning ideas into reality with clean, maintainable code.  
