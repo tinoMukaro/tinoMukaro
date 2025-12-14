@@ -8,8 +8,8 @@ When I'm not coding, you can find arguing on X.
 
 ## 🔎 About Me  
 🌍 Based in Zimbabwe, passionate about creating impactful digital solutions.  
-🔭 Currently working on **Mind Mirror**, an AI-powered journaling app that provides insights and summaries.  
-🌱 Learning **Next.js** and deepening my DevOps skills. 
+🔭 Currently working on **foodWise**, cant say much but youll love it watch the space!!.  
+🌱 Learning **Python** and deepening my DevOps skills. 
 📫 Reach me at **vamukaro3@gmail.com**.  
 
 ---
