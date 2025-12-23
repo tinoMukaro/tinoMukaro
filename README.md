@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tino Mukaro  
+# Hello, I'm Tino Mukaro  
 A Recent Computer Science Student & Aspiring Cloud Engineer from Zimbabwe  
 
 I'm a creative and dedicated developer with a love for building intuitive, functional, and impactful web applications.  
@@ -6,19 +6,19 @@ I enjoy working with modern web technologies, turning ideas into reality with cl
 When I'm not coding, you can find arguing on X.  
 
 
-## 🔎 About Me  
-🌍 Based in Zimbabwe, passionate about creating impactful digital solutions.  
-🔭 Currently working on **foodWise**, cant say much but youll love it watch the space!!.  
-🌱 Learning **Python** and deepening my DevOps skills. 
-📫 Reach me at **vamukaro3@gmail.com**.  
+##  About Me  
+Based in Zimbabwe, passionate about creating impactful digital solutions.  
+Currently working on **foodWise**, cant say much but youll love it watch the space!!.  
+Deepening my DevOps skills. 
+Reach me at **vamukaro3@gmail.com**.  
 
 ---
 
 ## Skills  
-**Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Frontend:** React, JavaScript, Tailwind CSS  
 **Backend:** Node.js, Express.js, Django (basics)  
-**Databases:** PostgreSQL, MongoDB  
-**Version Control:** Git, GitHub  
+**Databases:** PostgreSQL
+**Version Control:** well you're here obviously its Git
 
 ---
 
