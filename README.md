@@ -16,9 +16,9 @@ Reach me at **vamukaro3@gmail.com**.
 
 ## Skills  
 **Frontend:** React, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, Django (basics)  
+**Backend:** Node.js, Express.js, FastAPI(Basics)  
 **Databases:** PostgreSQL
-**Version Control:** well you're here obviously its Git
+**Version Control:** well you're here obviously its Git and Github
 
 ---
 
@@ -28,6 +28,9 @@ AI-powered journaling platform that analyzes entries and provides summaries and 
 
 **Traffic Offence Management System (TOMS)**  
 A web application for tracking and managing traffic offences, supporting user authentication with JWT.    
+
+**Food Wise**  
+Food deals platform to reduce food waste.  
 
 ---
 
