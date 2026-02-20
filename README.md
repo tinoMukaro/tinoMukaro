@@ -15,8 +15,8 @@ Reach me at **vamukaro3@gmail.com**.
 ---
 
 ## Skills  
-**Frontend:** React, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, FastAPI(Basics)  
+**Frontend:** React, JavaScript, Tailwind CSS, wordpress 
+**Backend:** Node.js, Express.js
 **Databases:** PostgreSQL
 **Version Control:** well you're here obviously its Git and Github
 
