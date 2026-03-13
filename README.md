@@ -3,13 +3,13 @@ A Recent Computer Science Graduate & Aspiring Cloud Engineer from Zimbabwe
 
 I'm a creative and dedicated developer with a love for building intuitive, functional, and impactful web applications.  
 I enjoy working with modern web technologies, turning ideas into reality with clean, maintainable code.  
-When I'm not coding, you can find me arguing on X.  
+
 
 
 ##  About Me  
 Based in Zimbabwe, passionate about creating impactful digital solutions.  
 Currently working on **foodWise**, cant say much but youll love it watch the space!!.  
-Deepening my DevOps skills. 
+Learning Java and SpringBoot !!
 Reach me at **vamukaro3@gmail.com**.  
 
 ---
