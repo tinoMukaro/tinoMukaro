@@ -1,5 +1,5 @@
 # Hello, I'm Tino Mukaro  
-A Recent Computer Science Graduate & Aspiring Cloud Engineer from Zimbabwe  
+Software Developer & Aspiring Cloud Engineer 
 
 I'm a creative and dedicated developer with a love for building intuitive, functional, and impactful web applications.  
 I enjoy working with modern web technologies, turning ideas into reality with clean, maintainable code.  
@@ -8,16 +8,15 @@ I enjoy working with modern web technologies, turning ideas into reality with cl
 
 ##  About Me  
 Based in Zimbabwe, passionate about creating impactful digital solutions.  
-Currently working on **foodWise**, cant say much but youll love it watch the space!!.  
-Learning Java and SpringBoot !!
+[https://tinomukaro.vercel.app/]
 Reach me at **vamukaro3@gmail.com**.  
 
 ---
 
 ## Skills  
 **Frontend:** React, JavaScript, Tailwind CSS, wordpress 
-**Backend:** Node.js, Express.js
-**Databases:** PostgreSQL
+**Backend:** Node.js, Express.js, Spring Boot
+**Databases:** PostgreSQL, MySQL
 **Version Control:** well you're here obviously its Git and Github
 
 ---
