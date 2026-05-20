@@ -8,7 +8,7 @@ I enjoy working with modern web technologies, turning ideas into reality with cl
 
 ##  About Me  
 Based in Zimbabwe, passionate about creating impactful digital solutions.  
-[https://tinomukaro.vercel.app/]
+https://tinomukaro.vercel.app/
 Reach me at **vamukaro3@gmail.com**.  
 
 ---
