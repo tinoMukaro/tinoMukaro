@@ -14,10 +14,20 @@ Reach me at **vamukaro3@gmail.com**.
 ---
 
 ## Skills  
-**Frontend:** React, JavaScript, Tailwind CSS, wordpress 
-**Backend:** Node.js, Express.js, Spring Boot
-**Databases:** PostgreSQL, MySQL
-**Version Control:** well you're here obviously its Git and Github
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB.svg)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC.svg)](https://tailwindcss.com/)
+[![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B.svg)](https://wordpress.org/)
+
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933.svg)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Framework-Express.js-black.svg)](https://expressjs.com/)
+[![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-6DB33F.svg)](https://spring.io/projects/spring-boot)
+
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791.svg)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1.svg)](https://www.mysql.com/)
+
+[![Git](https://img.shields.io/badge/VersionControl-Git-F05032.svg)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Platform-GitHub-181717.svg)](https://github.com/)
 
 ---
 
